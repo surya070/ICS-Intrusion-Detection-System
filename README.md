@@ -1,4 +1,4 @@
-# ICS Intrusion Detection (MIT Bangalore Hackathon)
+# ICS Intrusion Detection System
 
 This project is a **minimal Industrial Control System (ICS) simulation** designed to detect anomalies in Modbus/TCP traffic in real time.
 It combines:
@@ -60,6 +60,3 @@ A **Streamlit dashboard** visualizes detection results live and highlights suspi
 * Thresholds may be tuned for different datasets.
 
 ---
-This version is **\~348 words**.
-
-Would you like me to also add a **small "Team / Contributors" section** at the bottom, since it’s for a college hackatho
