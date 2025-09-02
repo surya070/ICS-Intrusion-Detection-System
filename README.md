@@ -9,6 +9,9 @@ It combines:
 A **Streamlit dashboard** visualizes detection results live and highlights suspicious activity.
 
 ---
+<img width="1247" height="769" alt="Screenshot 2025-09-03 005930" src="https://github.com/user-attachments/assets/0c350c4f-9a9c-4dd1-b295-15825ac6d7f4" />
+
+---
 
 ## Components
 
@@ -50,7 +53,9 @@ A **Streamlit dashboard** visualizes detection results live and highlights suspi
    * python plc_server.py        # PLC server  
    * python scada_client.py      # SCADA client  
    * streamlit run ics_dashboard.py   # Dashboard  
-   
+
+<img width="929" height="332" alt="Screenshot 2025-09-03 005826" src="https://github.com/user-attachments/assets/e77a0a38-0007-458b-9662-bce94fc3e8ae" />
+
 ---
 
 ## Notes
