@@ -47,11 +47,10 @@ A **Streamlit dashboard** visualizes detection results live and highlights suspi
 1. Train or provide a `keras_cnn_lstm_model.h5`.
 2. Prepare emission data with `emit_values.py` or supply your own CSV.
 3. Run in separate terminals:
-   '''
-   python plc_server.py        # PLC server  
-   python scada_client.py      # SCADA client  
-   streamlit run ics_dashboard.py   # Dashboard  
-   '''
+   * python plc_server.py        # PLC server  
+   * python scada_client.py      # SCADA client  
+   * streamlit run ics_dashboard.py   # Dashboard  
+   
 ---
 
 ## Notes
